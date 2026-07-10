@@ -2,7 +2,7 @@ name : a test workflow
 
 on : 
     push: 
-        branches: ["main"]
+        branches: ["test"]
 
 jobs: 
     testing-testing:
