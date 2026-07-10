@@ -13,7 +13,7 @@ jobs:
               run: echo "welcome to class"
             # step 2
             - name: tell people goodbye
-              run: echo"Thank you for coming! See you soon."
+              run: echo "Thank you for coming! See you soon."
                 
 
 
